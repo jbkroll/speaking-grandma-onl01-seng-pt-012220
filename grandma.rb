@@ -17,4 +17,5 @@ def speak_to_grandma(phrase)
     "ILOVE YOU TOO PUMPKIN!"
   elseif !phrase.upcase
     "HUH? Speak up, Sonny!"
+  end
 end
