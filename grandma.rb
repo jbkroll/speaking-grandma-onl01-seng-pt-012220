@@ -15,12 +15,9 @@
 def speak_to_grandma(phrase)
 if phrase == "I LOVE YOU GRANDMA!"
   "ILOVE YOU TOO PUMPKIN!"
-  
-  !'I LOVE YOU GRANDMA'
-  puts 'HUH? Speak up, Sonny!'
-  
-elseif phrase ==
+elseif !phrase.upcase
+  "HUH? Speak up, Sonny!"
   
   
-else puts 'HUH? Speak up, Sonny!'
+else return 'HUH? Speak up, Sonny!'
 end
