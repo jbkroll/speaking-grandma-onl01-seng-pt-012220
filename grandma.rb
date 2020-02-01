@@ -13,4 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 speak_to_grandma(phrase)
-if phrase == 'i love you grandma'
+if phrase !'I LOVE YOU GRANDMA'
+  puts 'HUH? Speak up, Sonny!'
+elseif phrase ==
