@@ -13,4 +13,4 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 speak_to_grandma(phrase)
-if phrase 
+if phrase == 'i love you grandma'
