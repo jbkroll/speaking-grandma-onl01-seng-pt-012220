@@ -17,7 +17,5 @@ if phrase == "I LOVE YOU GRANDMA!"
   "ILOVE YOU TOO PUMPKIN!"
 elseif !phrase.upcase
   "HUH? Speak up, Sonny!"
-  
-  
 else return 'HUH? Speak up, Sonny!'
 end
