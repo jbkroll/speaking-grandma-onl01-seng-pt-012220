@@ -16,9 +16,9 @@ def speak_to_grandma(phrase)
 if phrase == "I LOVE YOU GRANDMA!"
   "ILOVE YOU TOO PUMPKIN!"
   
-  
   !'I LOVE YOU GRANDMA'
   puts 'HUH? Speak up, Sonny!'
+  
 elseif phrase ==
   
   
